@@ -11312,8 +11312,8 @@
 # Belfast
 254 = {
     text_position = {
-        x = 2709.399902
-        y = 1727.099976
+        x = 2709.300000
+        y = 1728.350000
     }
 
     text_rotation = 5.235987
@@ -128408,7 +128408,7 @@
 
 }
 
-# Aksai China
+# Aksai Chin
 3347 = {
     text_position = {
         x = 4038.700000
@@ -128445,6 +128445,121 @@
         railroad = {
             x = 4010.140000
             y = 1362.166667
+        }
+
+    }
+
+}
+
+# Pudukkottai
+3348 = {
+    text_position = {
+        x = 4035.550000
+        y = 924.600000
+    }
+
+    text_scale = 1.15
+    unit = {
+        x = 4034.450000
+        y = 925.250000
+    }
+
+    city = {
+        x = 4034.450000
+        y = 923.550000
+    }
+
+    factory = {
+        x = 4036.100000
+        y = 924.550000
+    }
+
+    building_construction = {
+        x = 4038.100000
+        y = 925.000000
+    }
+
+    military_construction = {
+        x = 4035.050000
+        y = 920.800000
+    }
+
+    building_position = {
+        fort = {
+            x = 4034.750000
+            y = 926.050000
+        }
+
+    }
+
+}
+
+# Cavan
+3349 = {
+    text_position = {
+        x = 2696.450000
+        y = 1713.150000
+    }
+
+    text_scale = 2
+    unit = {
+        x = 2696.100000
+        y = 1714.650000
+    }
+
+    factory = {
+        x = 2691.900000
+        y = 1713.750000
+    }
+
+    building_construction = {
+        x = 2697.850000
+        y = 1717.100000
+    }
+
+    military_construction = {
+        x = 2699.800000
+        y = 1714.150000
+    }
+
+}
+
+# Athos
+3350 = {
+    text_position = {
+        x = 3182.500000
+        y = 1441.300000
+    }
+
+    unit = {
+        x = 3185.100000
+        y = 1439.750000
+    }
+
+    city = {
+        x = 3184.000000
+        y = 1441.300000
+    }
+
+    factory = {
+        x = 3181.250000
+        y = 1442.100000
+    }
+
+    building_construction = {
+        x = 3184.600000
+        y = 1440.550000
+    }
+
+    military_construction = {
+        x = 3183.050000
+        y = 1441.650000
+    }
+
+    building_position = {
+        naval_base = {
+            x = 3186.000000
+            y = 1442.000000
         }
 
     }
