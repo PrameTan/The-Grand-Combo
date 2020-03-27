@@ -31,3 +31,4 @@
 *.out
 *.app
 AOE-exp/
+.DS_Store
