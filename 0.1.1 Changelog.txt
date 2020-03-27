@@ -12,10 +12,10 @@
 - Relevant countries now don't start with Mechanized Mining researched
 - Miscellaneous tech bugfixes
 - Fixed rebels spawning in AI countries
-- The number and ethnicity of the POPs in European Russia, Baltics, Tavria, Graubunden and Friuli were changed
+- The number and ethnicity of the POPs in European Russia, Baltics, Tavria, Switzerlang were changed
 - Implemented the direct immigration system
 - Events and decisions for Portugal are now compatible for Portugal-Brazil
 - Updated defines.lua to reduce militancy, lower soldier pops, and generally make more like HFM & HPM settings
 - Cleaned up inventions and technologies to remove duplicates and references to NVs, goods, factories, units, etc. which are not currently present in the mod.
 - Renamed Coptic to Oriental Orthodox, in this regard, Armenians and Mashriqi transferred to Oriental Orthodox
-- The Romansh was excluded as the secondary culture of Switzerland
+- Renamed Romansh to Rhaeto-Romansh; they was excluded as the secondary culture of Switzerland; German POPs from Chur transferred to Zurich
